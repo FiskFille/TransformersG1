@@ -1,0 +1,4 @@
+{
+	"transform_robot": {"category": "master","sounds": [{"name": "transform_robot","stream": false}]},
+	"transform_vehicle": {"category": "master","sounds": [{"name": "transform_vehicle","stream": false}]}
+}

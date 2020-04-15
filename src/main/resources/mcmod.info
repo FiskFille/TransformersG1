@@ -1,0 +1,16 @@
+[
+{
+  "modid": "transformersg1",
+  "name": "Transformers Mod G1 Edition",
+  "description": "G1-centric addon to the Transformers Mod, adding old-school characters from the 1980s like Optimus Prime and Starscream.",
+  "version": "${version}",
+  "mcversion": "1.7.10",
+  "url": "http://www.planetminecraft.com/mod/transformers-mod-g1/",
+  "updateUrl": "",
+  "authorList": ["FiskFille"],
+  "credits": "",
+  "logoFile": "tfg1-banner.png",
+  "screenshots": [],
+  "dependencies": ["transformers"]
+}
+]
